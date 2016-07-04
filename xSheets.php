@@ -2,7 +2,7 @@
 /**
  * @name Google Sheets
  * @desc Offer download archives of important common files
- * @version v0.14
+ * @version v0.2
  * @author @xopherdeep
  * @icon cloud-download-icon.png
  * @mini file
